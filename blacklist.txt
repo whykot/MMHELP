@@ -37,6 +37,7 @@ Bill_Reigan
 Boris_Smorodinov
 Break_Wueli
 Bobby_Hurley
+Bob_Encore
 Carlo_Mortino
 Cody_Supreme
 Carl_Johinson
@@ -74,6 +75,10 @@ Dimon_Soldatov
 Donnie_West_
 Devil_Arizatto
 Dark_Yudi
+Denis_Kuznetsov
+Daniil_Bahturin
+Dorian_Smit
+Dima_Poltopak
 Eddie_Redmond
 Egorka_Forest
 Ernesto_Montes
@@ -144,6 +149,7 @@ Jizzy_Baumann
 Jooy_Vol
 Jessika_Saldago
 Jessica_Collins
+James_Midnight
 Kevin_Jonson
 Kubota_Sudzuki
 Kevin_Adrian
@@ -224,6 +230,8 @@ Pavel_Losevit
 Pavel_Saar
 Paulo_Dybala
 Pharagon_Ramone
+Pavlo_LaFratta
+Quentin_Andre
 Roy_Wilson
 Raul_Rayanov
 Robert_Evans
@@ -241,6 +249,8 @@ Rio_Kamushkin
 Riccado_Grossi
 Ryan_Alfonso
 Ratiwe_Goldie
+Roman_Shavaeff
+Roman_Belousov
 Seo_Sprintie
 Snoop_Derokz
 Serhio_Alvarez
@@ -264,6 +274,7 @@ Toily_Esaulkov
 Tyrion_McFarlane
 Timofei_Enotov
 Taylor_Wade
+Tayler_Austin
 Tamerlan_Matveenko
 Tony_Guerrero
 Veyron_Supreme
@@ -284,6 +295,7 @@ Yaroslav_Bandit
 Yersultan_Rai
 Yaroslavka_Medvedev
 Yuki_Kamazaki
+Young_Welkroy
 Zero_Sey
 Zokuv_Koshak
 Zeb_Weave
