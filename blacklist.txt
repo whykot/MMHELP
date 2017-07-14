@@ -53,6 +53,7 @@ Coron_Homs
 Chris_Howard
 Channel_Savio
 Cameron_Welkroy
+Chizo_Nogano
 David_Gelandewagen
 Dmitriy_Khomyakov
 Dan_Jonson
@@ -93,6 +94,8 @@ Ekaterina_Voronsova
 El_Caponer
 Eddie_Capone_
 Ervin_Moretti
+Emilio_Venegas
+Evgeniy_Chernyavskiy
 Frank_Robertson
 Fedya_Barvinchenko
 Fred_Zotov
@@ -164,6 +167,7 @@ Kevin_Swager
 Katya_Baltika_
 Kisel_Frame
 Kirill_Dark
+Kirill_Ostrizhnyy
 Lionel_Calpone
 Looker_Jeffwood
 Luis_Martin
@@ -261,6 +265,7 @@ Skuezz_Giordano
 Sergio_Costello
 Samo_Shaboyan
 Svytoslav_Sokol
+Slawyak_Boss
 Thomas_Traverrso
 Tomas_Hatler
 Tatho_Ingannamorte
@@ -287,6 +292,8 @@ Vlad_Bradesko
 Vanek_Anosov
 Vladik_Popov
 Vitalik_Kloner
+Vlad_Simonenko
+Vlad_Grek
 Wiss_Adderly
 Wade_Jordan
 Waka_Jordan
