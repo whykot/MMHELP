@@ -136,6 +136,7 @@ Ilua_Romanchuk
 Ilay_Polo
 Ivan_Bogatov
 Igor_Kalinin
+Ilya_Smolenskiy
 Jack_Bpanoviсh
 John_Lebrero
 Jony_Turbo
@@ -154,6 +155,7 @@ Jooy_Vol
 Jessika_Saldago
 Jessica_Collins
 James_Midnight
+Jurgen_Benz
 Kevin_Jonson
 Kubota_Sudzuki
 Kevin_Adrian
@@ -207,6 +209,9 @@ Maksim_Shulika
 Mimic_Chest
 Miguel_Vendetta
 Maksim_Dichenko
+Mario_Coffe
+Miroslav_Gromov
+Maxim_Zaharcyk
 Neri_DiAngelo
 Nazyl_Galiullin
 Nekit_Krut
@@ -227,6 +232,7 @@ Olga_Samoryadova
 Ocean_Astelloz
 Oleg_Zharov
 Oskar_Bravo
+Oleg_Basotskiy
 Perry_Supreme
 Paul_Jones
 Pierre_Aubameyang
@@ -282,6 +288,7 @@ Tyrion_McFarlane
 Timofei_Enotov
 Taylor_Wade
 Tayler_Austin
+Tom_Reddle
 Tamerlan_Matveenko
 Tony_Guerrero
 Veyron_Supreme
